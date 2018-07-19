@@ -5,7 +5,11 @@ You can check the post of this analysis [here](https://shiguelita.github.io/note
 
 ## Dependencies
 Jupyter Notebook
+
 Bokeh
+
 Math
+
 Matplotlib
+
 Seaborn
